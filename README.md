@@ -24,7 +24,7 @@ Koeling van de vloeistof in de ketel gaat via een platenkoeler. Hier wordt koud 
 
 ### Vergisting
 
-De afgekoelde vloeistof wordt overgeheveld naar een gisttank. Deze gisttank wordt afgesloten met een waterslot en op temperatuur gehouden met warm of koud water dat door een gesloten systeem door de wand van de gisttank gepompt wordt. De temperatuur van dit water wordt geregeld door een machine die water koelt, verwarmt en rondpompt op krachtstroom. Als er gekoeld moet worden slaat af en toe de ventilator aan, verder is deze machine geheel geluidsloos.
+De afgekoelde vloeistof wordt overgeheveld naar een gisttank. Deze gisttank wordt afgesloten met een waterslot en op temperatuur gehouden met warm of koud water dat door een gesloten systeem door de wand van de gisttank gepompt wordt. De temperatuur van dit water wordt geregeld door een machine die water koelt, verwarmt en rondpompt op krachtstroom. Als er gekoeld moet worden slaat af en toe de ventilator aan, verder is deze machine geheel geluidloos.
 
 ### Bottelen
 
