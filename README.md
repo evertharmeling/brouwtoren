@@ -50,13 +50,13 @@ Restproducten van een brouwsessie zijn:
 
 Het proeflokaal is ondergeschikt aan, en is gevestigd in, de brouwerij. Dit wil zeggen dat het proeflokaal zonder de brouwerij geen bestaansrecht heeft. Zo schenken we enkel onze eigen bieren en hebben we geen keuken. Het proeflokaal wordt gevestigd in de opslagruimte, zodat mensen echt het gevoel hebben dat ze 'in' de brouwerij zitten, zonder dat ze het brouwproces kunnen verstoren.
 
-## Assortiment
+### Assortiment
 
-### Eten
+#### Eten
 
 Voor hapjes maken we zoveel mogelijk gebruik van externe leveranciers. Dit betekent dat alles wat gefrituurd moet worden afkomstig zal zijn van de tegenover gelegen snackbar Corry en dat we kant en klare kaas/worst plankjes inkopen die verder geen bereiding behoeven. Mochten we onverhoopt iets willen opwarmen, dan zal dat via de magnetron gaan. Het is in ieder geval niet de bedoeling dat we een eigen keuken krijgen, we zijn immers een brouwerij.
 
-### Drinken
+#### Drinken
 
 Qua bier schenken we enkel onze eigen bieren, uit onze eigen tafeltaps. Verder zal er een beperkte kaart zijn met fris (flesjes), wijn (wit/rood/rosé) en koffie. Koffie en cappucino komen uit een automaat.
 
@@ -82,7 +82,7 @@ We verwachten c.a. 25 - 35 bezoekers per dag tijdens openingstijden.
 
 Op eigen terrein hebben we parkeervakken met ruimte voor 8 auto's.
 
-#### Fietsen: 10
+#### Fietsen
 
 Op eigen terrein hebben we fietsenrekken met ruimte voor 10 fietsen.
 
